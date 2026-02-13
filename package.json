@@ -1,0 +1,17 @@
+{
+  "name": "taskflow",
+  "version": "1.0.0",
+  "description": "TaskFlow - タスク管理アプリケーション",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "vitest"
+  },
+  "keywords": ["task-management", "todo", "productivity"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}

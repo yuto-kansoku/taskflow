@@ -248,6 +248,15 @@ feedback:
 sdk:
   version: "3.5.0"
 
+# ========================================
+# SSOT (Single Source of Truth) 設定
+# ========================================
+ssot:
+  issue_number: 1
+  project_name: "taskflow"
+  created_at: "2026-02-13"
+  url: "https://github.com/yuto-kansoku/taskflow/issues/1"
+
   # コマンドシステム
   commands:
     source: "embedded"      # バイナリ埋め込み
